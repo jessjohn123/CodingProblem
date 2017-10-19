@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CodingChallenge.cpp
+c:\users\cagefighter\desktop\codingproblem\codingchallenge\codingchallenge\codingchallenge.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\cagefighter\desktop\codingproblem\codingchallenge\codingchallenge\codingchallenge.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cagefighter\desktop\codingproblem\codingchallenge\codingchallenge\codingchallenge.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cagefighter\desktop\codingproblem\codingchallenge\codingchallenge\codingchallenge.cpp(98): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CodingChallenge.vcxproj -> C:\Users\CageFighter\Desktop\CodingProblem\CodingChallenge\Debug\CodingChallenge.exe
